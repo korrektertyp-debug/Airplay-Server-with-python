@@ -3,7 +3,7 @@ A lightweight AirPlay server written in Python, featuring Bonjour service discov
 How do i use it:
 Open and install Bonjour Service (the installer is located in the folder).
 Check whether the uxplay_bin folder is in the same directory as main.exe or main.py.
-Open Looksmaxxerplay.exe and click Connect.
+Open main.exe or main.py and click Connect.
 Make sure both devices are connected to the same network.
 Connect your phone.
 
